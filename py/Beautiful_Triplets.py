@@ -39,4 +39,5 @@ if __name__ == '__main__':
     result = beautifulTriplets(d, arr)
 
     fptr.write(str(result) + '\n')
+    
     fptr.close()
